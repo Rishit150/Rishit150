@@ -1,10 +1,5 @@
 ## About me
 
-
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on CPT
 - 🌱 I’m currently learning CPT
 - 💬 Ask me about CPT
